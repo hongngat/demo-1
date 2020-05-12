@@ -1,0 +1,277 @@
+@media only screen and (max-width:1200px){
+    .menu ul li a{
+        padding: 0px 15px 0px 15px;
+    }
+    .donate{
+        width: 30%;
+    }
+    
+}
+@media only screen and (max-width:544px){
+    .flex-contact-item .text-contact{
+        font-size: 9px;
+    }
+    .flex-contact-item .icon-img{
+        font-size: 8px;
+    }
+    .quetion p{
+        font-size: 9px;
+    }
+}
+
+@media only screen and (max-width:414px){
+    .header-area{
+        display: none;
+    }
+    nav .container .navbar-brand img{
+        width: 20%;
+        margin-right: 10px;
+    }
+    nav .container .navbar-brand{
+        font-size: 20px;
+    }
+    #slide .slide-item .slide-content h1{
+        font-size: 30px;
+    }
+    #slide .slide-item .slide-content p{
+        font-size: 13px;
+        width: 80%;
+        margin-left: 10%;
+    }
+    #slide{
+        height: 600px;
+    }
+    #slide::before{
+        height: 600px;
+    }
+    #slide .slide-item{
+        height: 600px;
+    }
+    
+}
+@media only screen and (max-width:991px){
+    .menu ul li{
+        display: block;
+    }
+    .menu ul{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .menu{
+        display: block;
+    }
+    .dropdown-menu{
+        position: relative !important;
+        width: 100%;
+    }
+    .donate{
+        width: 20%;
+    }
+    .main-wrapper p{
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .skill-bars li .progress span{
+        top: 200px;
+    }
+    .read{
+        padding: 5px 10px;
+        width: 70%;
+        margin-left: 13%;
+    }
+    .title h1{
+        font-size: 40px;
+    }
+    .text-content p{
+        font-size: 13px;
+    }
+    .flex-money .text-money{
+        font-size: 13px;
+    }
+    .title-1 .span-1 {
+        left:40%;
+        font-size: 20px;
+    }
+    .title-1 .span-2{
+        left:46%;
+    }
+    .title-1 .span-2 img{
+        width: 90%;
+    }
+}
+@media only screen and (max-width:1200px){
+    .donate{
+        width: 20%;
+    }
+}
+@media only screen and (max-width:767px){
+    .donate{
+        width: 30%;
+    }
+    #slide .slide-item .slide-content h1{
+        font-size: 60px;
+    }
+    #slide .slide-item .slide-content p{
+        font-size: 15px;
+        width: 80%;
+        margin-left: 10%;
+    }
+    #slide{
+        height: 700px;
+    }
+    #slide::before{
+        height: 700px;
+    }
+    #slide .slide-item{
+        height: 700px;
+    }
+    .main-wrapper p{
+        margin-top: 20px;
+    }
+    .skill-bars li .progress span{
+        top: 399px;
+        font-size: 13px;
+        padding: 5px 5px;
+    }
+    .read{
+        width: 40%;
+        margin-left: 30%;
+    }
+    .read a{
+        font-size: 15px;
+    }
+    .title h1{
+        font-size: 50px;
+    }
+    .text-content p{
+        font-size: 15px;
+    }
+    .text-content strong{
+        font-size: 18px;
+    }
+    .flex-money .text-money{
+        font-size: 15px;
+    }
+    .title-1 .span-1 {
+        left:37%;
+        font-size: 25px;
+    }
+    .title-1 .span-2{
+        left:44%;
+    }
+    .title-1 .span-2 img{
+        width: 80%;
+    }
+    .flex-money {
+        padding:0px 50px;
+        margin-left: 5%;
+    }
+}
+@media only screen and (max-width:563px){
+    .donate{
+        width: 30%;
+    }
+}
+@media only screen and (max-width:519px){
+    .flex-money {
+        padding:0px 16px;
+        margin-left: 5%;
+    }
+    .skill-bars li .progress span{
+        top: 375px;
+        font-size: 13px;
+        padding: 5px 5px;
+    }
+    .title h1{
+        font-size: 35px;
+    }
+    .flex-money .text-money{
+        font-size: 13px;
+    }
+    .title-1 .span-1 {
+        left:33%;
+        font-size: 15px;
+    }
+    .title-1 .span-2{
+        left:42%;
+    }
+    .title-1 .span-2 img{
+        width: 60%;
+    }
+}
+@media only screen and (max-width:490px){
+    .skill-bars li .progress span{
+        top: 360px;
+    }
+}
+@media only screen and (max-width:474px){
+    .donate{
+        width: 35%;
+    }
+    .skill-bars li .progress span{
+        top: 345px;
+        font-size: 10px;
+        padding: 2px 2px;
+    }
+}
+@media only screen and (max-width:431px){
+    .donate{
+        width: 40%;
+    }
+    .skill-bars li .progress span{
+        top: 320px;
+        
+    }
+}
+@media only screen and (max-width:410px){
+    
+    .skill-bars li .progress span{
+        top: 305px;
+        
+    }
+}
+@media only screen and (max-width:375px){
+    
+    .skill-bars li .progress span{
+        top: 285px;
+        
+    }
+}
+@media only screen and (max-width:340px){
+    
+    .skill-bars li .progress span{
+        top: 260px;
+        
+    }
+}
+@media only screen and (max-width:384px){
+    .donate{
+        width: 50%;
+    }
+    .flex-money {
+        padding:0px 12px;
+        margin-left: 5%;
+    }
+}
+@media only screen and (max-width:320px){
+    #slide .slide-item .slide-content h1{
+        font-size: 30px;
+    }
+    #slide .slide-item .slide-content p{
+        font-size: 10px;
+        width: 80%;
+        margin-left: 10%;
+    }
+    #slide{
+        height: 400px;
+    }
+    #slide::before{
+        height: 400px;
+    }
+    #slide .slide-item{
+        height: 400px;
+    }
+    #slide .slide-item .slide-content a{
+        font-size: 12px;
+    }
+}
