@@ -7,6 +7,13 @@
     }
     
 }
+@media only screen and (max-width:1199px){
+    .skill-bars li .progress span{
+        top: 250px;
+        font-size: 13px;
+        padding: 5px 5px;
+    }
+}
 @media only screen and (max-width:544px){
     .flex-contact-item .text-contact{
         font-size: 9px;

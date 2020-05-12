@@ -343,7 +343,7 @@ nav .container{
 }
 .skill-bars li .progress span {
     position: absolute;
-	top: 250px;
+	top: 290px;
 	display: block;
 	font-family: "poppins-regular", sans-serif;
 	color: white;
@@ -393,7 +393,8 @@ nav .container{
 }
 .flex-money{
     display: flex;
-    padding:0px 5px;
+    padding:0px 10px;
+    margin-left: 5%;
 }
 .flex-money .icon-money{
     padding:0px 5px;
