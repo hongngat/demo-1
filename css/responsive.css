@@ -219,6 +219,9 @@
     .title-1 .span-2 img{
         width: 60%;
     }
+    .fun .container .row .col{
+        padding: 30px 0px 30px 0px;
+    }
 }
 @media only screen and (max-width:490px){
     .skill-bars li .progress span{
@@ -261,6 +264,11 @@
         position: absolute;
         top:0;
         left: 32%;
+    }
+    .content-fun ul li{
+        display: inline-block;
+        padding: 0px ;
+    
     }
 }
 @media only screen and (max-width:340px){
