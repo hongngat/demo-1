@@ -54,6 +54,10 @@
     #slide .slide-item{
         height: 600px;
     }
+    .content-fun ul li a img{
+        width: 80%;
+    }
+    
     
 }
 @media only screen and (max-width:991px){
@@ -173,6 +177,16 @@
         padding:0px 50px;
         margin-left: 5%;
     }
+    .fun .container .row .col{
+        padding: 30px;
+    }
+}@media only screen and (max-width:575px){
+    .BG{
+        position: absolute;
+        top:0;
+        left: 35%;
+    }
+     
 }
 @media only screen and (max-width:563px){
     .donate{
@@ -217,8 +231,8 @@
     }
     .skill-bars li .progress span{
         top: 345px;
-        font-size: 10px;
-        padding: 2px 2px;
+        font-size: 15px;
+        padding: 5px 5px;
     }
 }
 @media only screen and (max-width:431px){
@@ -242,6 +256,11 @@
     .skill-bars li .progress span{
         top: 285px;
         
+    }
+    .BG{
+        position: absolute;
+        top:0;
+        left: 32%;
     }
 }
 @media only screen and (max-width:340px){

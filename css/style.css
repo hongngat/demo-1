@@ -260,14 +260,15 @@ nav .container{
     text-decoration: none;
     color: black;
 }
-.fun .container .row .col{
-    padding: 30px;
+.content-fun ul li a img{
+    width: 100%;
 }
+
 
 /*feature*/
 .feature{
     background-color: #fff;
-    padding: 142px 0px;
+    padding: 60px 0px;
 }
 .title{
     position: relative;
@@ -311,7 +312,7 @@ nav .container{
 
 /*cause*/
 .cause{
-    padding: 140px 0px 140px 0px;
+    padding: 60px 0px 60px 0px;
     background-image: url(../img/BG-cause.png);
     background-position: center;
     background-size: cover;
